@@ -16,11 +16,11 @@ Java & Spring Boot를 메인으로 웹 개발을 공부하고 있습니다.</br>
 
 ## skill 🛠 
 
-#### stack
+### stack
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Conda-Forge&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 
-#### tool
+### tool
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDEA-666666?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 
 
