@@ -10,10 +10,6 @@ Java & Spring Boot를 메인으로 웹 개발을 공부하고 있습니다.</br>
 
 
 
-- Spring Boot를 사용해서 Restful api 를 개발할 수 있습니다.
-- JPA, SQL을 사용해서 데이터 CRUD를 할 수 있습니다.
-
-
 ## skill 🛠 
 
 ### stack
