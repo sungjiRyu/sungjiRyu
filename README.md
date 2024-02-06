@@ -21,7 +21,7 @@ Java & Spring Boot를 메인으로 웹 개발을 공부하고 있습니다.</br>
 
 
 ## contact 💡
-- Email : sungji.dev@gmail.com
+- Email : sjryu.dev@gmail.com
 
 
 ## Education 📒
